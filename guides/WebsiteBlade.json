@@ -1,0 +1,6 @@
+[
+    {
+        type: "notification",
+        message: "This blade just works!"
+    }
+]
