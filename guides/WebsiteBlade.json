@@ -3,5 +3,16 @@
         "type": "notification",
         "title": "Woo hoo",
         "message": "This blade just works!"
+    },
+    {
+        "type": "notification",
+        "title": "Another tip!",
+        "message": "This blade just works!"
+    },
+    {
+        "type": "url",
+        "title": "Visit Offbeat!",
+        "url": "http://offbeat.fi"
     }
+
 ]
