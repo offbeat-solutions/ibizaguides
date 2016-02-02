@@ -1,4 +1,6 @@
-[
+{
+  "blade": "Website",
+  "guides": [
     {
         "type": "notification",
         "title": "Woo hoo",
@@ -13,6 +15,5 @@
         "type": "url",
         "title": "Visit Offbeat!",
         "url": "http://offbeat.fi"
-    }
-
-]
+    }]
+}

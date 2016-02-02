@@ -1,7 +1,9 @@
-[
-    {
-        "type": "url",
-        "title": "Check this out!",
-        "url": "http://www.offbeat.fi"
-    }
-]
+{
+    "blade": "Website Settings",
+    "guides": [
+        {
+            "type": "url",
+            "title": "Check this out!",
+            "url": "http://www.offbeat.fi"
+        }]
+}
