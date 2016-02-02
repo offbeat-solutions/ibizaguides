@@ -1,7 +1,7 @@
 [
     {
-        type: "url",
-        title: "Check this out!",
-        url: "http://www.offbeat.fi"
+        "type": "url",
+        "title": "Check this out!",
+        "url": "http://www.offbeat.fi"
     }
 ]

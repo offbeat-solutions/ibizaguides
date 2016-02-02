@@ -1,6 +1,7 @@
 [
     {
-        type: "notification",
-        message: "This blade just works!"
+        "type": "notification",
+        "title": "Woo hoo",
+        "message": "This blade just works!"
     }
 ]
